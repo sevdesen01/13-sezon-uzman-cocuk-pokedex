@@ -14,3 +14,5 @@ Type-based Styling: Cards change color dynamically based on the Pokémon's type.
 ![Uploading Pokedex ve diğer 2 sayfa - Kişisel - Microsoft_ Edge 2026-01-18 01-05-50.gif…]()
 
 
+
+
